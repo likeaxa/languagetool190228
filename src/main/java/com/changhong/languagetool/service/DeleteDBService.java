@@ -4,7 +4,7 @@ import com.changhong.languagetool.bean.Language;
 import com.changhong.languagetool.mapper.LanguageMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-//test
+
 @Service
 public class DeleteDBService {
 
